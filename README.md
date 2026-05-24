@@ -97,7 +97,7 @@ Features included:
 
 ## Team Project
 
-This project was completed as part of a collaborative university-industry co-op project in partnership with Co-op.
+This project was completed as part of a collaborative university-industry project in partnership with Co-op Uk.
 
 Contributions included:
 - data preprocessing
@@ -112,10 +112,10 @@ Contributions included:
 ## Repository Structure
 
 ```text
-coop-bakery-sales-forecasting/
+in-store-bakery-sales-forecasting/
 │
 ├── README.md
-├── game_changers_report.pdf
+├── project_report.pdf
 ```
 
 ---
