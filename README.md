@@ -2,7 +2,7 @@
 
 A machine learning and time series forecasting project focused on predicting daily bakery sales to support inventory optimisation and reduce waste in retail environments.
 
-This project was completed as part of a university-industry co-op collaboration with Co-op.
+This project was completed as part of a university-industry collaboration with Co-op Uk.
 
 ---
 
